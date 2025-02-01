@@ -1,0 +1,193 @@
+{
+    "games": [
+        {
+            "id": "1",
+            "gameName": "Cyberpunk 2077",
+            "description": "Explore the futuristic world of Night City in this open-world RPG from CD Projekt Red.",
+            "companyName": "CD Projekt Red",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+            "downloadLink": "https://www.cyberpunk.net/us/en/",
+            "warning": "Mature content, violent scenes, and strong language."
+        },
+        {
+            "id": "2",
+            "gameName": "Fortnite",
+            "description": "A fast-paced battle royale game with endless action, customizations, and frequent updates.",
+            "companyName": "Epic Games",
+            "imageUrl": "https://cdn1.epicgames.com/offer/fn/EN_BXECO_33-00_Shooter_EGS_Launcher_Blade_2560x1440_2560x1440-36e1ff15dc00cd506986a2565764bbd3",
+            "downloadLink": "hhttps://www.fortnite.com/?lang=en-US",
+            "warning": "Violence and in-game purchases."
+        },
+        {
+            "id": "3",
+            "gameName": "Minecraft",
+            "description": "An open-world sandbox game that allows you to create and explore with infinite possibilities.",
+            "companyName": "Mojang",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
+            "downloadLink": "https://www.minecraft.net/en-us",
+            "warning": "Mild fantasy violence."
+        },
+        {
+            "id": "4",
+            "gameName": "Call of Duty: Modern Warfare",
+            "description": "A tactical military shooter that offers intense combat experiences with realistic warfare.",
+            "companyName": "Infinity Ward",
+            "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000950/capsule_616x353.jpg?t=1678294805",
+            "downloadLink": "https://www.callofduty.com/modernwarfare",
+            "warning": "Intense violence and strong language."
+        },
+        {
+            "id": "5",
+            "gameName": "Among Us",
+            "description": "A multiplayer game of teamwork and betrayal where you try to figure out who the impostor is.",
+            "companyName": "Innersloth",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNvhZ998yrrgi4g9hczQZ1s36YCXR2ymVhv625GeyLdpdnYDhuH_YJxQZ8-Z5TEB6HrA4q",
+            "downloadLink": "https://www.innersloth.com/games/among-us/",
+            "warning": "Mild violence and interaction with strangers."
+        },
+        {
+            "id": "6",
+            "gameName": "Valorant",
+            "description": "A tactical first-person shooter with unique agents and abilities, offering strategic gameplay.",
+            "companyName": "Riot Games",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzVyzwU_O73yytrt7wMM2UgnYwgmNoqc8SeJARgwAxhYkNnndB76WDH4mEiN9REpvNsmlM2Q",
+            "downloadLink": "https://playvalorant.com/en-us/",
+            "warning": "Violence, in-game communication, and online interactions."
+        },
+        {
+            "id": "7",
+            "gameName": "Apex Legends",
+            "description": "A battle royale game with unique characters, each with their own abilities.",
+            "companyName": "Respawn Entertainment",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://www.ea.com/games/apex-legends",
+            "warning": "Violence and in-game purchases."
+        },
+        {
+            "id": "8",
+            "gameName": "League of Legends",
+            "description": "A multiplayer online battle arena (MOBA) game where players control champions with unique abilities.",
+            "companyName": "Riot Games",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://na.leagueoflegends.com",
+            "warning": "Fantasy violence and online interactions."
+        },
+        {
+            "id": "9",
+            "gameName": "Red Dead Redemption 2",
+            "description": "A story-driven open-world game set in the Wild West with stunning visuals and deep storytelling.",
+            "companyName": "Rockstar Games",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://www.rockstargames.com/reddeadredemption2",
+            "warning": "Violence, mature themes, and strong language."
+        },
+        {
+            "id": "10",
+            "gameName": "The Witcher 3: Wild Hunt",
+            "description": "A deep role-playing game set in a fantasy world, featuring a rich story and open-world exploration.",
+            "companyName": "CD Projekt Red",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://thewitcher.com/en/witcher3",
+            "warning": "Mature themes, violence, and strong language."
+        },
+        {
+            "id": "11",
+            "gameName": "Overwatch",
+            "description": "A team-based multiplayer first-person shooter with colorful characters and strategic gameplay.",
+            "companyName": "Blizzard Entertainment",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://playoverwatch.com",
+            "warning": "Violence, fantasy combat, and online interactions."
+        },
+        {
+            "id": "12",
+            "gameName": "Fall Guys",
+            "description": "A fun, quirky battle royale game where players compete in obstacle courses.",
+            "companyName": "Mediatonic",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://fallguys.com",
+            "warning": "Mild cartoon violence."
+        },
+        {
+            "id": "13",
+            "gameName": "Rainbow Six Siege",
+            "description": "A tactical first-person shooter that emphasizes strategy, team coordination, and destructible environments.",
+            "companyName": "Ubisoft",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://www.ubisoft.com/game/rainbow-six/siege",
+            "warning": "Violence and realistic combat."
+        },
+        {
+            "id": "14",
+            "gameName": "Genshin Impact",
+            "description": "An open-world RPG with beautiful visuals and a unique elemental combat system.",
+            "companyName": "miHoYo",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://genshin.mihoyo.com",
+            "warning": "Fantasy violence, mild themes, and online interactions."
+        },
+        {
+            "id": "15",
+            "gameName": "Minecraft Dungeons",
+            "description": "An action-adventure dungeon crawler set in the Minecraft universe.",
+            "companyName": "Mojang",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://www.minecraft.net/en-us/dungeons",
+            "warning": "Mild fantasy violence."
+        },
+        {
+            "id": "16",
+            "gameName": "Hunt: Showdown",
+            "description": "A first-person multiplayer bounty hunting game set in a grim, bayou world.",
+            "companyName": "Crytek",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://www.huntshowdown.com",
+            "warning": "Violence and horror themes."
+        },
+        {
+            "id": "17",
+            "gameName": "Resident Evil Village",
+            "description": "A survival horror game with intense combat and chilling environments.",
+            "companyName": "Capcom",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://www.residentevil.com/village",
+            "warning": "Strong violence, blood, and gore."
+        },
+        {
+            "id": "18",
+            "gameName": "Star Wars: Squadrons",
+            "description": "A space combat game where you can fight in iconic Star Wars dogfights.",
+            "companyName": "Electronic Arts",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://www.ea.com/games/starwars/squadrons",
+            "warning": "Mild violence and space combat."
+        },
+        {
+            "id": "19",
+            "gameName": "The Elder Scrolls V: Skyrim",
+            "description": "An epic open-world RPG set in the fantasy world of Tamriel with deep lore and quests.",
+            "companyName": "Bethesda",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://elderscrolls.bethesda.net",
+            "warning": "Violence, fantasy combat, and mature themes."
+        },
+        {
+            "id": "20",
+            "gameName": "Tetris Effect",
+            "description": "A visually stunning and immersive take on the classic Tetris puzzle game.",
+            "companyName": "Monstars Inc.",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://tetris.com",
+            "warning": "Mild frustration, puzzle-solving intensity."
+        },
+        {
+            "id": "21",
+            "gameName": "FIFA 21",
+            "description": "The latest edition of the world's most popular soccer simulation game.",
+            "companyName": "EA Sports",
+            "imageUrl": "https://thumbs.dreamstime.com/b/controller-video-game-colourful-image-gameing-controller-colourful-bright-gameing-controller-video-game-293064531.jpg",
+            "downloadLink": "https://www.ea.com/games/fifa/fifa-21",
+            "warning": "Mild violence and in-game purchases."
+        }
+    ]
+}

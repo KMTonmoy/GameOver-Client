@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+            "id": "1",
+            "title": "Wolf Gaming Art",
+            "author": "Alax Max",
+            "creator": "Alax Max",
+            "price": "1.002 ETH",
+            "imageUrl": "https://themedox.com/mykd/wp-content/uploads/2023/10/nft_img01.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Forest Princess",
+            "author": "Alax Max",
+            "creator": "Alax Max",
+            "price": "1.068 ETH",
+            "imageUrl": "https://themedox.com/mykd/wp-content/uploads/2023/10/nft_img02.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Girl Firefly Art",
+            "author": "Alax Max",
+            "creator": "Alax Max",
+            "price": "1.025 ETH",
+            "imageUrl": "https://themedox.com/mykd/wp-content/uploads/2023/10/nft_img03.jpg"
+        }
+    ]
+}

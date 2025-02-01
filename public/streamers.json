@@ -1,0 +1,39 @@
+{
+    "streamers": [
+        {
+            "id": "1",
+            "name": "Ninja",
+            "description": "Tyler 'Ninja' Blevins is one of the most famous streamers known for Fortnite and other action-packed games.",
+            "channel": "https://www.youtube.com/@ninjagamingxx",
+            "imageUrl": "https://static01.nyt.com/images/2020/09/11/business/10ninja-print/merlin_145957176_af6e588b-36f1-40ff-9050-41f45ecca6a2-mediumSquareAt3X.jpg"
+        },
+        {
+            "id": "2",
+            "name": "PewDiePie",
+            "description": "Felix 'PewDiePie' Kjellberg is known for his Let's Play videos, commentary, and a massive fan following.",
+            "channel": "https://www.youtube.com/user/PewDiePie",
+            "imageUrl": "https://variety.com/wp-content/uploads/2019/12/pewdiepie.png"
+        },
+        {
+            "id": "3",
+            "name": "Valkyrae",
+            "description": "Rachell 'Valkyrae' Hofstetter is a popular streamer and content creator on YouTube, known for her variety streams.",
+            "channel": "https://www.youtube.com/@Valkyrae",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1yoo3P9jWca822mTmic2DIIOb1qkhSqxDqpdv0RIw5LiiTiiwB7gs18Sm68edf_haFPVELRiMeSlo6uQk3h9JPQ"
+        },
+        {
+            "id": "4",
+            "name": "Pokimane",
+            "description": "Imane 'Pokimane' Anys is a variety streamer known for her engaging content and positive personality.",
+            "channel": "https://www.youtube.com/@pokimane",
+            "imageUrl": "https://www.playcentral.de/wp-content/uploads/2020/08/Pokimane.jpg"
+        },
+        {
+            "id": "5",
+            "name": "xQcOW",
+            "description": "Félix 'xQc' Lengyel is a former Overwatch pro player and one of the biggest streamers on Twitch.",
+            "channel": "https://www.youtube.com/@xQcOW",
+            "imageUrl": "https://blog.cdn.own3d.tv/GaXTDmW3SgGJjPiQSmQt"
+        }
+    ]
+}

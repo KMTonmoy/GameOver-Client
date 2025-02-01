@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Grand Theft Auto V",
+        "description": "Explore the vast open world of Los Santos in GTA V, an action-packed game filled with adventure and chaos.",
+        "imageUrl": "https://assets.newatlas.com/dims4/default/de91311/2147483647/strip/true/crop/2560x1344+0+48/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fgta-5-review.jpg&na.image_optimisation=0",
+        "buttonLink": "/gta5"
+    },
+    {
+        "title": "Apex Legends",
+        "description": "Team up and fight for survival in Apex Legends, the popular battle royale game filled with tactical gameplay.",
+        "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/ss_4488cb162bbb0e0d2e6c17be612035bb6349bcca.1920x1080.jpg?t=1736940058",
+        "buttonLink": "/apex-legends"
+    },
+    {
+        "title": "Assassin's Creed Valhalla",
+        "description": "Embark on an epic journey as a Viking warrior in Assassin's Creed Valhalla, and conquer your foes in this action-packed adventure.",
+        "imageUrl": "https://assetsio.gnwcdn.com/Assassins-Creed-Valhalla-Forgotten-Saga.jpg?width=1200&height=600&fit=crop&enable=upscale&auto=webp",
+        "buttonLink": "/assassins-creed-valhalla"
+    }
+]
